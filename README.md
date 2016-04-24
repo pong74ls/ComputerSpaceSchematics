@@ -15,6 +15,7 @@ The following general changes were made to the schematics:
 3) Added part numbers (some borrowed from original layout) for all components to allow for easier tracing of signals.
 
 Version 1A Update:
+
 -Added Sync/Star Board Model 2 schematic. The parts and connections on this board have not been verified since I do not own a Model 2 board.
 
 -Added the RotateLeftSW and RotateRightSW signal labels to the Memory Board.
